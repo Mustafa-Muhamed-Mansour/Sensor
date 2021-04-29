@@ -10,6 +10,7 @@ import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.widget.Toast;
 
+// test github
 public class MainActivity extends AppCompatActivity
 {
 
